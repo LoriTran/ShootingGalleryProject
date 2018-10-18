@@ -2,7 +2,7 @@
     "id": "72576f73-1b70-43f8-b40d-09cdd5f3a038",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite6",
+    "name": "sprite_ammo",
     "For3D": false,
     "HTile": false,
     "VTile": false,
